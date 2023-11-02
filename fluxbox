@@ -1,0 +1,15 @@
+::. FLUXBOX BLACKARCH RED 2018 STYLE .::
+
+/usr/share/blackarch/config/fluxbox/styles/blackarch/theme.cfg
+______________________________________________________________
+menu.borderColor:  #ff0000
+menu.hilite.color:  #ff0000
+toolbar.borderColor:  #ff0000
+toolbar.color:  #ff0000
+toolbar.button.pressed.color:  #ff0000
+toolbar.iconbar.unfocused.textColor:  #ff0000
+window.borderColor:  #ff0000
+window.label.unfocus.textColor:  #ff0000
+window.button.unfocus.Color:  #ff0000
+window.handle.focus.color:  #ff0000
+window.handle.focus.colorTo:  #ff000
