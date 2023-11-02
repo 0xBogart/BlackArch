@@ -12,7 +12,7 @@ window.borderColor:  #ff0000
 window.label.unfocus.textColor:  #ff0000
 window.button.unfocus.Color:  #ff0000
 window.handle.focus.color:  #ff0000
-window.handle.focus.colorTo:  #ff000
+window.handle.focus.colorTo:  #ff00000
 
 
 /usr/share/fluxbox/styles/blackarch/theme.cfg
@@ -27,4 +27,4 @@ window.borderColor:  #ff0000
 window.label.unfocus.textColor:  #ff0000
 window.button.unfocus.Color:  #ff0000
 window.handle.focus.color:  #ff0000
-window.handle.focus.colorTo:  #ff000
+window.handle.focus.colorTo:  #ff00000
